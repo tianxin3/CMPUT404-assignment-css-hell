@@ -1,0 +1,26 @@
+body{
+    background: #6edefa;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Times New Roman' serif;
+    font-size: 20px;
+}
+
+img{
+    border-radius: 8px;
+    filter: grayscale(100%);
+}
+
+img:hover{
+    border: 3px solid black;
+}
+
+.caption{
+    font-weight: bold;
+    border: 1px solid black;
+}
