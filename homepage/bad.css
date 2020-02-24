@@ -1,0 +1,90 @@
+.header {
+    padding: 25px;
+    text-align: center;
+    /* background: #4eaff0; */
+    color: white;
+    font-size: 16px;
+    padding: 30px 80px;
+    color: #e4d727;
+  }
+ 
+  body{
+     background-image: url('./Image/bg.jpg');
+     background-size: cover;
+  }
+ 
+  /* cite: topnav from w3school*/
+  /*https://www.w3schools.com/howto/howto_js_topnav.asp*/
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    text-shadow: 5px 5px #3ea0e0;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #68b9f0;
+    color: white;
+  }
+ 
+  /*cite: card from w3shool*/
+  /*https://www.w3schools.com/howto/howto_css_profile_card.asp*/
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    text-align: center;
+    font-family: arial;
+    position:relative;
+    height: 70%;
+    width: 30%;
+    margin:10px;
+  }
+ 
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+ 
+  .content{
+     margin-left: 30%;
+     margin-right: 5%;
+  }
+  
+  section{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ 
+  /* section.solid {
+    border-top: 3px solid #bbb;
+  } */
+ 
+  h2{
+     font-size: 30px;
+  }
+/*  
+  h3{
+     margin-top: 5%;
+     margin-left: 5%;
+     font-size: 25px;
+  } */
+  li{
+    line-height: 2;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+ 
+  
